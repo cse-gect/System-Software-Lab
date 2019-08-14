@@ -13,7 +13,7 @@
 ------------
 
 ##### Sample Test Case
-[![](https://github.com/cse-gect/System-Software-Lab/.github/images/)](https://github.com/cse-gect/System-Software-Lab/.github/images/)
+[![](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/1_1.png)](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/1_1.png)
 
 
 ------------
