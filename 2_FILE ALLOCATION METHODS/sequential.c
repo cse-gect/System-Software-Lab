@@ -17,7 +17,7 @@ int main(){
 	char block[100], tempStatus[15];
 
   clearScreen();
-  printf("\nFile Allocation Algorithms\n--------------------------\n\n");
+  printf("\nSequential File Allocation\n--------------------------\n\n");
 
 	printf("Enter Number of blocks : ");
 	scanf("%d", &nb);
