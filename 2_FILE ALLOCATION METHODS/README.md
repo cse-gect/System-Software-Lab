@@ -26,7 +26,8 @@
 
 Sequential
 
-![](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/1_2.png)
+![](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/2_4.png)
+![](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/2_5.png)
 
 Indexed
 
