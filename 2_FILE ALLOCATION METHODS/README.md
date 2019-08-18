@@ -31,8 +31,6 @@ Sequential
 
 Indexed
 
-![](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/1_3.png)
+
 
 Linked
-
-![](https://raw.githubusercontent.com/cse-gect/System-Software-Lab/master/.github/images/1_4.png)

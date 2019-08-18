@@ -54,6 +54,10 @@ int main(){
 				flag = 1;
 				break;
 			}
+      if (j >= nb) {
+        flag = 1;
+        break;
+      }
 		}
 		if (flag == -1){
       files[i].isAlloc = 1;
