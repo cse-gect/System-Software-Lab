@@ -9,5 +9,10 @@
 ## Output
 
 
-
 ![Screenshot 2020-10-18 195845c](https://user-images.githubusercontent.com/36037989/96768357-6a88c780-13fb-11eb-8c34-73714a6ece2c.png)
+
+Symtab.txt
+
+
+![Screenshot 2020-10-18 195845](https://user-images.githubusercontent.com/36037989/96768632-a91e8200-13fb-11eb-87fa-e4e5180a4cdc.png)
+
