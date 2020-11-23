@@ -1,0 +1,27 @@
+
+Enter your choice
+1.Create a symbol table
+2.Search in the symbol table: 1
+Enter the address: 1000
+Enter the label: data
+Continue (y/n)?y
+Enter the address: 1003
+Enter the label: test
+Continue (y/n)?y
+Enter the address: 1007
+Enter the label: abc
+Continue (y/n)?n
+Enter your choice
+1.Create a symbol table
+2.Search in the symbol table: 2
+Enter the label: abc
+The label abc is present at index 1
+
+Enter your choice
+1.Create a symbol table
+2.Search in the symbol table: 2
+Enter the label: hi
+Symbol not present
+Enter your choice
+1.Create a symbol table
+2.Search in the symbol table: 3
