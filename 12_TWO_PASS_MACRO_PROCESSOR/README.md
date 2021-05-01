@@ -12,5 +12,4 @@ During pass 2, atab2.txt(ARGTAB) file is generated and expanded program is writt
 
 ## Output
 
-![image](https://user-images.githubusercontent.com/36037989/116773007-791dfe80-aa70-11eb-84c8-a5723f691704.png)
-
+![Screenshot 2020-11-23 220816](https://user-images.githubusercontent.com/36037989/116773031-9521a000-aa70-11eb-8209-8dcd5c740e95.png)
