@@ -8,7 +8,7 @@ After pass 1, files ntab2.txt(NAMETAB) and dtab2.txt(DEFTAB) are generated which
 
 ![image](https://user-images.githubusercontent.com/36037989/116772920-c77ecd80-aa6f-11eb-9397-a9f3cf77873b.png)
 
-During pass 2, atab2.txt(ARGTAB) file is generated.
+During pass 2, atab2.txt(ARGTAB) file is generated and expanded program is written into op2.txt file.
 
 ## Output
 
